@@ -12,7 +12,7 @@ entirely on a **free T4 GPU** via Google Colab.
 ---
 
 ## 🔗 Links
-- 🤗 **Model on HF Hub**: [your-username/medical-chatdoctor-mistral7b](https://huggingface.co/kavyaab2005/medical-chatdoctor-mistral7b)
+- 🤗 **Model on HF Hub**: [kavyaab2005/medical-chatdoctor-mistral7b](https://huggingface.co/kavyaab2005/medical-chatdoctor-mistral7b)
 - 📓 **Colab Notebook**: [Open in Colab](https://colab.research.google.com/github/kavyaab2005/medical-llm-finetuning/blob/main/notebook/medical_llm_finetuning.ipynb)
 
 ---
